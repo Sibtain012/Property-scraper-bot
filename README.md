@@ -1,4 +1,3 @@
-```markdown
 # Zillow Scraper Capstone 🏠
 
 A Python-based web scraper that extracts real estate listings from Zillow (or similar platforms). This project is part of my Capstone submission and showcases web scraping, data processing, and automation skills.
